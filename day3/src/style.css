@@ -1,0 +1,24 @@
+/* h1 {
+    font-size: 60px;
+} */
+body {
+    margin: 0;
+}
+
+header {
+    background: #3f51b5;
+    border-bottom: 2px solid #fff;
+    box-shadow: 0 0 21 0 rgba(0,0,0,0.6);
+    margin-bottom: 20px;
+}
+
+.header-items {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.wrapper {
+    max-width: 1380px;
+    margin: 0 auto;
+}
